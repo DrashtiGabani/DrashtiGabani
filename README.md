@@ -1,12 +1,8 @@
-![image.png](assets/image.png)
-
 <div align="center">
   <img align="center" alt="Python" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />
   <img align="center" alt="SQL" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sql_data_base_with_logo.svg"/>
-  <img align="center" alt="PyCharm" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg"/>
-  <img align="center" alt="VS Code" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg"/>
-  <img align="center" alt="GitHub" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" />
-  <img align="center" alt="Blender" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Blender_logo_no_text.svg" />
+  <img align="center" alt="PyCharm" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg"/>
+  <img align="center" alt="GitHub" height="50px"  src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Blender_logo_no_text.svg" />
   <img align="center" alt="Excel" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019–present%29.svg"/>
   <img align="center" alt="Tableau" height="50px" src="https://www.svgrepo.com/download/354428/tableau-icon.svg" />
 </div>
@@ -15,15 +11,12 @@
 </br>
 
 <div align="center">
-  <img align="center" alt="Docker" height="40px" src="/assets/Docker.svg"/>
-  <img align="center" alt="Flask" height="40px" src="/assets/Flask.svg"/>
   <img align="center" alt="NumPy" height="40px" src="/assets/NumPy_name.svg"/>
   <img align="center" alt="Pandas" height="40px" src="/assets/Pandas_name.svg"/>
   <img align="center" alt="Scikit-learn" height="40px" src="/assets/scikit-learn.svg"/>
   <img align="center" alt="SciPy" height="40px" src="/assets/SciPy.svg"/>
   <img align="center" alt="matplotlin" height="40px" src="/assets/matplotlib.svg"/>
   <img align="center" alt="Seaborn" height="40px" src="/assets/Seaborn_name.svg"/>
-  <img align="center" alt="Plotly" height="40px" src="/assets/Plotly_name.png"/>
 </div>
 
 ### 👋 About Me
