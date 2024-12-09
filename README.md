@@ -26,15 +26,23 @@
   <img align="center" alt="Plotly" height="40px" src="/assets/Plotly_name.png"/>
 </div>
 
-# About Me
+### 👋 About Me
 
-Hi there! 👋 I'm a self-taught Python developer and Machine Learning enthusiast from India. With over 11 years of experience in the chemical manufacturing sector, I have recently transitioned into the exciting field of Data Science and Machine Learning. I'm passionate about leveraging data-driven insights and predictive models to solve real-world problems and drive meaningful impact.
+Hello! My name is **Drashti Gabani**, a passionate and goal-oriented individual with a strong foundation in **Project Management** and **Data Analytics**. Currently, I am pursuing Master’s in **Data Analytics** at the Berlin School of Business and Innovation, building upon my background in **Engineering Project Management** and **Computer Engineering**.
 
-🎯 Collaborating on impactful projects and contributing to open-source initiatives in data science
+I thrive on solving complex problems through data-driven insights and collaborative teamwork. My academic and professional journey has equipped me with hands-on experience in managing projects, analyzing data, and delivering impactful solutions.
 
-💡 Along with coding, I create 3D graphics in Blender in my spare time
+### 🌟 Key Highlights:
 
-💬 Ask me about Machine Learning and Statistical Analysis [here](https://github.com/MathRunner7)
+* 🎓 **Certified Associate in Project Management (CAPM)** with expertise in engineering project workflows.
+* 📊 Proficient in **data analysis**, **visualization**, and machine learning tools like Python, SQL, Tableau, and Scikit-learn.
+* 🌍 Multilingual communicator with an intermediate proficiency in **German** and fluent in **English**, **Hindi**, and **Gujarati**, with strong interpersonal and team collaboration skills.
+
+
+### 🌱 What I’m Currently Doing:
+
+* Creating dedicated GitHub repositories for key projects, highlighting my skills in **Data Analytics** and **Visualization**.
+* Expanding my expertise in **Machine Learning**, **Data Warehousing**, and **Advanced Analytics Tools** through hands-on practice and coursework.
 
 <a href="https://www.linkedin.com/in/dg10297/">
 <img align="right" alt="Drashti Gabani | LinkedIN" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />
